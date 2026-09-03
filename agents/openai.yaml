@@ -1,0 +1,6 @@
+interface:
+  display_name: "Game Community AI Intelligence Daily Robust Preview"
+  short_description: "Preview daily game-community sentiment reports with resilient raw capture, short fallback prompts, relaxed parsing, platform status, and HTML dashboards."
+  default_prompt: "Use $game-community-ai-intelligence-daily-robust-preview to collect a 5-10 minute daily miHoYo/Kuro/acg market sentiment report, save all Web AI raw replies, run robust structuring, and generate an HTML dashboard."
+policy:
+  allow_implicit_invocation: true

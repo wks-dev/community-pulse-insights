@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+raw/
+structured/
+reports/
+daily_ai_outputs/
+workbuddy_job.json
+workbuddy_queue.csv
+workbuddy_runbook.md
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
